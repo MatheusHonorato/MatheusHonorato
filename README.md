@@ -8,9 +8,5 @@
 
 ### Hellooo! 👋 Welcome to my profile
 
-My name is Rebecca and I'm front-end developer.
+My name is Matheus Honorato.
 
- - 💙 In love with JavaScript
- - 🌱 Currently learning Vue.js and Angular
- - 😄 Also UI Designer 
- - ⚡ @codepwr on instagram: tips for beginners and support for women in technology
